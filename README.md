@@ -5,6 +5,8 @@ undo any step individually, and export the cleaned data plus a Python script tha
 
 **Stack:** React + Vite, FastAPI, pandas, SciPy, scikit-learn, SQLite, Plotly. No external API calls.
 
+**Live demo:** https://fixmycsv.onrender.com/
+
 ## Run it
 
 ```bash
